@@ -1,0 +1,3 @@
+[submodule "CryptoLibrary"]
+	path = CryptoLibrary
+	url = https://github.com/Igor-Zlatomrezhev/CryptoLibrary.git
